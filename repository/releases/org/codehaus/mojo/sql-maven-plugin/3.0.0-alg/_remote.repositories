@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Dec 31 17:53:21 EST 2016
+sql-maven-plugin-3.0.0-alg.jar>=
+sql-maven-plugin-3.0.0-alg.pom>=
+sql-maven-plugin-3.0.0-alg-sources.jar>=
+sql-maven-plugin-3.0.0-alg-javadoc.jar>=
