@@ -1,5 +1,5 @@
-Andy's maven repo @ github -- a poor man's nexus?
-=================================================
+zrgs.org (andy's) maven repo
+============================
 
 members:
 --------
