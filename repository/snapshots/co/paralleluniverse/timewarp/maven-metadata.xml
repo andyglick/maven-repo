@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>co.paralleluniverse</groupId>
+  <artifactId>timewarp</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170701012630</lastUpdated>
+  </versioning>
+</metadata>
